@@ -26,7 +26,7 @@
     "@nuxtjs/toast": "^3.3.0",
     "@nuxtjs/vuetify": "^1.11.2",
     "@stripe/stripe-js": "^1.7.0",
-    "aws-sdk": "^2.705.0",
+    "aws-sdk": "^2.814.0",
     "aws-serverless-express": "^3.3.8",
     "bcryptjs": "^2.4.3",
     "consola": "^2.13.0",
