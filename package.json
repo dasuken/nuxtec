@@ -36,7 +36,7 @@
     "csurf": "^1.11.0",
     "dayjs": "^1.8.28",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-cache-controller": "^1.1.0",
     "graceful-fs": "^4.2.4",
     "jsonwebtoken": "^8.5.1",
